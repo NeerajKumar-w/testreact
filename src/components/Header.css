@@ -1,0 +1,29 @@
+.Header{
+    height: 100px;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ddddee;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 0 10px 10px -10px grey;
+}
+.Header img{
+    height: 90px;
+    width: 90px;
+    border-radius: 90px;
+}
+.Header button{
+    height: 40px;
+    width: 80px;
+    background-color: #d5322d;
+    border: none;
+    border-radius: 10px;
+    font-size: 10pt;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+}
