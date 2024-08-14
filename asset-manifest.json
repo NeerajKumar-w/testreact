@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NeerajKumar-w/testreact/static/css/main.756c6a66.css",
+    "main.js": "/NeerajKumar-w/testreact/static/js/main.e0ff774a.js",
+    "static/js/453.785134cd.chunk.js": "/NeerajKumar-w/testreact/static/js/453.785134cd.chunk.js",
+    "index.html": "/NeerajKumar-w/testreact/index.html",
+    "main.756c6a66.css.map": "/NeerajKumar-w/testreact/static/css/main.756c6a66.css.map",
+    "main.e0ff774a.js.map": "/NeerajKumar-w/testreact/static/js/main.e0ff774a.js.map",
+    "453.785134cd.chunk.js.map": "/NeerajKumar-w/testreact/static/js/453.785134cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756c6a66.css",
+    "static/js/main.e0ff774a.js"
+  ]
+}
